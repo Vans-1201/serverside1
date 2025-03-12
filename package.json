@@ -1,5 +1,5 @@
 {
-  "name": "serverside1",
+  "name": "serverside1-server",
   "version": "1.0.0",
   "description": "Node.js server for signup and login functionality",
   "main": "server.js",
